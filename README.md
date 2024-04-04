@@ -40,3 +40,6 @@
 <p>Para las mujeres por categoría de bebidas predomina el Chardonnay; que exclusivamente tipo rosa. Teniendo el segundo puesto de licores más vendidos cubriendo el 19.97% de las ventas totales.</p>
 <img src="https://github.com/Alex030396/Proyecto-Power-BI-Licores/raw/main/Imagenes/Chardonay.png">
 <p>Mi conclusión de este análisis seria seguir promocionando las marcas y bebidas más vendidas del Reserve y Chardonnay, y que estén mas visuales que haya un mismo espacio amplio donde se exhiben para que las mujeres se vean mas tentadas a pedir sus bebidas, que obviamente esta relacionado con el color rosa, dando mas énfasis en la publicidad al color y a sus bebidas para que se sientan mas identificada con lo que beben y se sientan mas femeninas al beberlo y para que los hombres al hacer sus compras de alcohol también adquieran el producto pensando en lo que tomarían su esposas o parejas.</p>
+<p>Para visualizar la tabla utilizada en este proyecto puede descargarla en donde dice Excel y el Dashboard donde dice Power bi </p>
+<p>Data.xlsx : <a href="https://github.com/Alex030396/Proyecto-Power-BI-Licores/raw/main/Data.xlsx">  Excel</a></p>
+<p>Proyecto de licores.pbix : <a href="https://github.com/Alex030396/Proyecto-Power-BI-Licores/raw/main/Proyecto%20de%20Licores.pbix">Power BI</a> </p>
