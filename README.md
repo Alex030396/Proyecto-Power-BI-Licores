@@ -1,4 +1,7 @@
 <H1>Proyecto en Power Bi Licores</H1>
+
+<p>Data.xlsx : <a href="https://github.com/Alex030396/Proyecto-Power-BI-Licores/raw/main/Data.xlsx">  Excel</a></p>
+<p>Proyecto de licores.pbix : <a href="https://github.com/Alex030396/Proyecto-Power-BI-Licores/raw/main/Proyecto%20de%20Licores.pbix">Power BI</a> </p>
 <p>Proyecto realizado en Power BI para mostrar las habilidades adquiridas en una master class impartida por DataEdu dirigida por Dedier Atehortúa Morales. </p>
 <p>En el proyecto se plantea como se realizan los dashboard en power BI para ser visualizaciones y análisis de los datos adquiridos de las ventas de Licores, datos adquiridos por Dataedu, desconozco si son ficticio, pero como es para demostrar las habilidades y resolver un problema ficticio para el desarrollo de habilidades de análisis de datos.</p>
 <p>Primero se realizó la tarea esencial de todo analista de datos. ETL (Extracción, Transformar, Carga). Que es la acción de extraer de las tablas la información necesaria para el análisis, pasando por la transformación de la información para ser mas manipulable para ser cargada para realizar el Dashboard. Aquí está el ejemplo: (Datos extraídos del archivo Data.xlsx)</p>
